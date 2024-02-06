@@ -11,7 +11,6 @@ const Home = () => {
           height="315"
           src="https://www.youtube.com/embed/Tcx6YyXvvRI"
           title="Penguin Fail - Best Bloopers from Penguins Spy in the Huddle (Waddle all the Way)"
-          frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowFullScreen
         ></iframe>
