@@ -1,9 +1,9 @@
 const Home = () => {
   return (
     <>
-      <h1 align="center">{`Toma Mariazinha, é pra você esses coraçãozinhos ---> 💖💖💖`}</h1>
+      <h1 align="center">{`Toma Mariazinha, é pra você esses coraçãozinhos ---> 💖💖💖💖`}</h1>
 
-      <h1 align="center">{`Se gostou, manda um beijinho ---> 😘😘😘`}</h1>
+      <h1 align="center">{`Se gostou, manda um beijinho ---> 😘😘😘😘`}</h1>
 
       <div align="center">
         <iframe
